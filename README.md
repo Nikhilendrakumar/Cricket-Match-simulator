@@ -1,5 +1,5 @@
 🏏 Cricket Match Simulator
-Cricket Match Simulator is a stylish, interactive web application built using Spring Boot, JSP, and modern HTML/CSS, designed to simulate a real-life cricket match experience in a fun, virtual way. The project focuses on providing a complete flow — from player registration to toss, match simulation, and displaying match results — all wrapped in a modern, sporty, glassmorphism-inspired UI.
+Cricket Match Simulator is a stylish, interactive web application built using Spring Boot, Web MVC,Spring Data JPA, JSP, and modern HTML/CSS, designed to simulate a real-life cricket match experience in a fun, virtual way. The project focuses on providing a complete flow — from player registration to toss, match simulation, and displaying match results — all wrapped in a modern, sporty, glassmorphism-inspired UI.
 
 🚀 Features
 ✅ Player Registration:
